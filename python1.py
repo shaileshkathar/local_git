@@ -1,0 +1,2 @@
+shailesh="abc"
+print(shailesh)
